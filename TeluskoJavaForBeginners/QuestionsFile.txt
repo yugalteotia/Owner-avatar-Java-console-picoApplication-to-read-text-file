@@ -1,0 +1,10 @@
+1|What is the capital of France?|a) Paris * b) Berlin * c) Madrid * d) Rome|a
+2|Who is the author of "To Kill a Mockingbird"?|a) Mark Twain * b) J.K. Rowling * c) Harper Lee * d) Charles Dickens|c
+3|What is the largest planet in our solar system?|a) Venus * b) Jupiter * c) Mars * d) Saturn|b
+4|How many continents are there on Earth?|a) 5 * b) 6 * c) 7 * d) 8|c
+5|What is the powerhouse of the cell?|a) Nucleus * b) Ribosome * c) Mitochondria * d) Chloroplast|c
+6|Which famous scientist developed the theory of general relativity?|a) Isaac Newton * b) Albert Einstein * c) Galileo Galilei * d) Stephen Hawking|b
+7|In what year did the United States declare its independence?|a) 1776 * b) 1789 * c) 1801 * d) 1812|a
+8|What is the chemical symbol for gold?|a) Au * b) Ag * c) Fe * d) Hg|a
+9|Who painted the Mona Lisa?|a) Vincent van Gogh * b) Pablo Picasso * c) Leonardo da Vinci * d) Michelangelo|c
+10|What is the largest ocean on Earth?|a) Atlantic Ocean * b) Indian Ocean * c) Southern Ocean * d) Pacific Ocean|d

@@ -1,0 +1,90 @@
+11|Which planet is known as the "Red Planet"?|a) Venus * b) Mars * c) Jupiter * d) Mercury|b
+12|Who wrote the play "Romeo and Juliet"?|a) William Shakespeare * b) Jane Austen * c) Charles Dickens * d) Emily Brontë|a
+13|What is the largest mammal in the world?|a) Elephant * b) Blue Whale * c) Giraffe * d) Gorilla|b
+14|Which country is known as the Land of the Rising Sun?|a) China * b) Japan * c) South Korea * d) Vietnam|b
+15|What is the capital of Australia?|a) Sydney * b) Melbourne * c) Canberra * d) Brisbane|c
+16|Who was the first woman to win a Nobel Prize?|a) Marie Curie * b) Amelia Earhart * c) Florence Nightingale * d) Jane Goodall|a
+17|In what year did the Titanic sink?|a) 1905 * b) 1912 * c) 1920 * d) 1931|b
+18|What is the largest desert in the world?|a) Sahara Desert * b) Gobi Desert * c) Antarctica * d) Arabian Desert|a
+19|Who is the author of "1984"?|a) George Orwell * b) Aldous Huxley * c) Ray Bradbury * d) J.R.R. Tolkien|a
+20|Which element has the chemical symbol "O"?|a) Oxygen * b) Gold * c) Silver * d) Uranium|a
+21|What is the smallest prime number?|a) 0 * b) 1 * c) 2 * d) 3|c
+22|Who wrote "The Great Gatsby"?|a) Ernest Hemingway * b) F. Scott Fitzgerald * c) Jane Austen * d) J.D. Salinger|b
+23|Which gas do plants absorb during photosynthesis?|a) Oxygen * b) Carbon Dioxide * c) Nitrogen * d) Hydrogen|b
+24|What is the currency of Japan?|a) Won * b) Yen * c) Ringgit * d) Peso|b
+25|Who is known as the "Father of Modern Physics"?|a) Galileo Galilei * b) Isaac Newton * c) Albert Einstein * d) Niels Bohr|c
+26|In what year did World War I begin?|a) 1905 * b) 1914 * c) 1920 * d) 1939|b
+27|What is the largest bird in the world?|a) Penguin * b) Ostrich * c) Eagle * d) Flamingo|b
+28|Who painted "Starry Night"?|a) Pablo Picasso * b) Vincent van Gogh * c) Leonardo da Vinci * d) Claude Monet|b
+29|Which planet is known as the "Blue Planet"?|a) Earth * b) Neptune * c) Uranus * d) Saturn|a
+30|What is the main ingredient in guacamole?|a) Tomatoes * b) Avocado * c) Onions * d) Peppers|b
+31|Who is the Greek god of war?|a) Zeus * b) Ares * c) Apollo * d) Hermes|b
+32|What is the largest mammal on land?|a) Elephant * b) Giraffe * c) Rhinoceros * d) Hippopotamus|a
+33|Which country is known as the "Land of the Rising Sun"?|a) China * b) Japan * c) South Korea * d) Vietnam|b
+34|What is the capital of Brazil?|a) Rio de Janeiro * b) Brasília * c) São Paulo * d) Buenos Aires|b
+35|Who wrote "Pride and Prejudice"?|a) Emily Brontë * b) Jane Austen * c) Charlotte Brontë * d) Charles Dickens|b
+36|What is the chemical symbol for water?|a) H2O * b) CO2 * c) O2 * d) CH4|a
+37|Which continent is known as the "Dark Continent"?|a) Asia * b) Africa * c) South America * d) Antarctica|b
+38|Who discovered penicillin?|a) Marie Curie * b) Alexander Fleming * c) Louis Pasteur * d) Joseph Lister|b
+39|What is the largest ocean on Earth?|a) Atlantic Ocean * b) Indian Ocean * c) Southern Ocean * d) Pacific Ocean|d
+40|What is the capital of Canada?|a) Toronto * b) Vancouver * c) Ottawa * d) Montreal|c
+41|Who wrote "The Catcher in the Rye"?|a) J.D. Salinger * b) F. Scott Fitzgerald * c) Ernest Hemingway * d) Mark Twain|a
+42|What is the chemical symbol for iron?|a) Fe * b) Au * c) Ag * d) Pb|a
+43|Which planet is known as the "Morning Star" or "Evening Star"?|a) Mars * b) Venus * c) Jupiter * d) Mercury|b
+44|In what year did the Berlin Wall fall?|a) 1985 * b) 1989 * c) 1991 * d) 1995|b
+45|Who wrote "Hamlet"?|a) William Shakespeare * b) Charles Dickens * c) Jane Austen * d) Leo Tolstoy|a
+46|What is the capital of South Korea?|a) Beijing * b) Tokyo * c) Seoul * d) Bangkok|c
+47|What is the square root of 144?|a) 10 * b) 12 * c) 14 * d) 16|b
+48|Who was the first woman to fly solo across the Atlantic Ocean?|a) Amelia Earhart * b) Bessie Coleman * c) Harriet Quimby * d) Jacqueline Cochran|a
+49|What is the currency of China?|a) Yen * b) Won * c) Renminbi * d) Ringgit|c
+50|In what year did the United States land the first man on the moon?|a) 1965 * b) 1969 * c) 1972 * d) 1975|b
+51|Who wrote "The Odyssey"?|a) Homer * b) Virgil * c) Sophocles * d) Aesop|a
+52|What is the chemical symbol for silver?|a) Si * b) Ag * c) Au * d) Hg|b
+53|Which country is known as the "Land of the Midnight Sun"?|a) Norway * b) Canada * c) Sweden * d) Russia|a
+54|Who developed the theory of evolution by natural selection?|a) Charles Darwin * b) Gregor Mendel * c) Alfred Russel Wallace * d) Lamarck|a
+55|What is the largest moon in our solar system?|a) Europa * b) Ganymede * c) Titan * d) Callisto|b
+56|Who painted the "Last Supper"?|a) Vincent van Gogh * b) Leonardo da Vinci * c) Pablo Picasso * d) Michelangelo|b
+57|What is the capital of New Zealand?|a) Wellington * b) Sydney * c) Auckland * d) Melbourne|a
+58|In what year did the Cold War end?|a) 1985 * b) 1989 * c) 1991 * d) 1995|b
+59|What is the largest river in the world by discharge volume?|a) Amazon River * b) Nile River * c) Yangtze River * d) Mississippi River|a
+60|Who is the author of "The Hobbit"?|a) J.R.R. Tolkien * b) C.S. Lewis * c) J.K. Rowling * d) George R.R. Martin|a
+61|What is the capital of Argentina?|a) Santiago * b) Buenos Aires * c) Lima * d) Bogotá|b
+62|Who wrote "The Old Man and the Sea"?|a) John Steinbeck * b) Ernest Hemingway * c) F. Scott Fitzgerald * d) Jack London|b
+63|What is the chemical symbol for potassium?|a) K * b) P * c) Pt * d) Kr|a
+64|In what year did the Titanic sink?|a) 1905 * b) 1912 * c) 1920 * d) 1931|b
+65|Who was the first woman to win a Nobel Prize?|a) Marie Curie * b) Amelia Earhart * c) Florence Nightingale * d) Jane Goodall|a
+66|What is the currency of Mexico?|a) Peso * b) Real * c) Euro * d) Rand|a
+67|What is the largest desert in the world?|a) Sahara Desert * b) Gobi Desert * c) Antarctica * d) Arabian Desert|a
+68|Who wrote "The Canterbury Tales"?|a) William Shakespeare * b) Geoffrey Chaucer * c) Jane Austen * d) Charles Dickens|b
+69|What is the chemical symbol for gold?|a) Au * b) Ag * c) Fe * d) Hg|a
+70|Which element has the atomic number 1?|a) Hydrogen * b) Helium * c) Oxygen * d) Nitrogen|a
+71|What is the capital of South Africa?|a) Cairo * b) Johannesburg * c) Cape Town * d) Pretoria|c
+72|Who was the first President of the United States?|a) Thomas Jefferson * b) John Adams * c) George Washington * d) James Madison|c
+73|What is the main ingredient in hummus?|a) Chickpeas * b) Lentils * c) Quinoa * d) Rice|a
+74|Who is known as the "Queen of Pop"?|a) Madonna * b) Lady Gaga * c) Beyoncé * d) Rihanna|a
+75|What is the chemical symbol for carbon?|a) C * b) Ca * c) Co * d) Cu|a
+76|Which planet is known as the "Red Planet"?|a) Venus * b) Mars * c) Jupiter * d) Mercury|b
+77|What is the largest living structure on Earth?|a) Great Barrier Reef * b) Amazon Rainforest * c) Mount Everest * d) Grand Canyon|a
+78|Who is the author of "The Lord of the Rings"?|a) J.K. Rowling * b) J.R.R. Tolkien * c) George R.R. Martin * d) C.S. Lewis|b
+79|What is the capital of Turkey?|a) Istanbul * b) Ankara * c) Tehran * d) Baghdad|b
+80|Who discovered the double helix structure of DNA?|a) Rosalind Franklin * b) James Watson * c) Francis Crick * d) Linus Pauling|c
+81|What is the capital of Thailand?|a) Hanoi * b) Bangkok * c) Jakarta * d) Manila|b
+82|Who painted the ceiling of the Sistine Chapel?|a) Vincent van Gogh * b) Leonardo da Vinci * c) Raphael * d) Michelangelo|d
+83|What is the chemical symbol for sodium?|a) Na * b) Ne * c) Ni * d) Nb|a
+84|In what year did World War II end?|a) 1943 * b) 1945 * c) 1950 * d) 1955|b
+85|Who is the author of "One Hundred Years of Solitude"?|a) Gabriel García Márquez * b) Mario Vargas Llosa * c) Isabel Allende * d) Julio Cortázar|a
+86|What is the currency of India?|a) Rupee * b) Ringgit * c) Rupiah * d) Baht|a
+87|What is the largest lake in the world by surface area?|a) Lake Baikal * b) Lake Superior * c) Caspian Sea * d) Lake Victoria|c
+88|Who wrote "War and Peace"?|a) Fyodor Dostoevsky * b) Anton Chekhov * c) Leo Tolstoy * d) Nikolai Gogol|c
+89|What is the chemical symbol for helium?|a) He * b) H * c) Ha * d) Ho|a
+90|Which gas makes up the majority of Earth's atmosphere?|a) Oxygen * b) Nitrogen * c) Carbon Dioxide * d) Argon|b
+91|What is the capital of Egypt?|a) Cairo * b) Alexandria * c) Luxor * d) Aswan|a
+92|Who developed the theory of special relativity?|a) Isaac Newton * b) Albert Einstein * c) Max Planck * d) Niels Bohr|b
+93|What is the main ingredient in sushi rice?|a) Brown rice * b) Basmati rice * c) Arborio rice * d) Short-grain rice|d
+94|Who is the author of "The Chronicles of Narnia" series?|a) J.R.R. Tolkien * b) C.S. Lewis * c) J.K. Rowling * d) Philip Pullman|b
+95|What is the chemical symbol for nitrogen?|a) N * b) Ni * c) Na * d) Ne|a
+96|Which country is known as the "Land of the Rising Sun"?|a) China * b) Japan * c) South Korea * d) Vietnam|b
+97|What is the world's largest ocean?|a) Atlantic Ocean * b) Indian Ocean * c) Southern Ocean * d) Pacific Ocean|d
+98|Who painted "The Persistence of Memory"?|a) Pablo Picasso * b) Salvador Dalí * c) Claude Monet * d) Vincent van Gogh|b
+99|What is the capital of Saudi Arabia?|a) Riyadh * b) Jeddah * c) Mecca * d) Medina|a
+100|In what year did the Renaissance begin?|a) 1300 * b) 1400 * c) 1500 * d) 1600|c
